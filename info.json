@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "3a90a027d2dc384a4721468b241eea640968f058",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2020-11-26 05:40:40",
+    "files": 3,
+    "merge": false,
+    "message": "add gh actions badge. remove appveyor file\n"
+  },
+  "remote": "https://github.com/ropensci/rcitoid",
+  "pkg": "rcitoid"
+}
